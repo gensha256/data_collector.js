@@ -1,0 +1,40 @@
+{
+  "id": 1958,
+  "name": "TRON",
+  "symbol": "TRX",
+  "slug": "tron",
+  "num_market_pairs": 704,
+  "date_added": "2017-09-13T00:00:00.000Z",
+  "tags": [
+    "media",
+    "payments",
+    "tron-ecosystem"
+  ],
+  "max_supply": null,
+  "circulating_supply": 92177447781.33849,
+  "total_supply": 92177472142.92757,
+  "platform": null,
+  "cmc_rank": 14,
+  "self_reported_circulating_supply": 71659659264,
+  "self_reported_market_cap": 3730198453.396407,
+  "tvl_ratio": null,
+  "last_updated": "2022-11-19T20:08:00.000Z",
+  "quote": {
+    "USD": {
+      "price": 0.05205437050229409,
+      "volume_24h": 315291744.5046766,
+      "volume_change_24h": 9.2669,
+      "percent_change_1h": 0.0097077,
+      "percent_change_24h": 2.97284831,
+      "percent_change_7d": -5.4124119,
+      "percent_change_30d": -16.54589105,
+      "percent_change_60d": -12.86579775,
+      "percent_change_90d": -21.05475265,
+      "market_cap": 4798239018.76566,
+      "market_cap_dominance": 0.5771,
+      "fully_diluted_market_cap": 4798240286.89,
+      "tvl": null,
+      "last_updated": "2022-11-19T20:08:00.000Z"
+    }
+  }
+}
